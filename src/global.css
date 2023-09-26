@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-base: 1rem;
+  --font-size-sm: 0.88rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslateblue: #303265;
+
+  /* Gaps */
+  --gap-10xs: 0.19rem;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+}
